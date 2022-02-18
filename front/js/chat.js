@@ -1,4 +1,4 @@
-const url = 'http://localhost:8080';
+const url = 'https://chat-566.herokuapp.com';
 let stompClient;
 let selectedUser;
 let newMessages = new Map();
